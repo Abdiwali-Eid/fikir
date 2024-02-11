@@ -42,7 +42,6 @@
 		"react-slick": "^0.29.0",
 		"react-syntax-highlighter": "^15.4.5",
 		"react-use-flexsearch": "^0.1.1",
-		"sanity-plugin-simpler-color-input": "^2.1.0",
 		"sharp": "^0.33.0",
 		"styled-components": "^5.3.3"
 	},
